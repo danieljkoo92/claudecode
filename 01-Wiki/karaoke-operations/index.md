@@ -10,3 +10,4 @@ Day-to-day running of Christmas Karaoke and Beats Karaoke. Opening and closing p
 - [[Health Inspection Checklist]]
 - [[Reservation Email Template]]
 - [[Daily Sales Sheet Template]]
+- [[Beer Inventory]]

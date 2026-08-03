@@ -1,61 +1,76 @@
-# Second Brain — Schema & Rulebook
+# Second Brain — Schema and Rulebook
 
-This file is maintained automatically. Claude updates it whenever a new topic folder is created.
+Claude maintains this file. It is the master list of topic folders and the naming rules.
 
 ---
 
 ## Naming Conventions
 
-- **Folder names:** lowercase-with-dashes. No spaces. No special characters. Example: `karaoke-venues`
-- **Note filenames:** lowercase-with-dashes ending in `.md`. Example: `christmas-karaoke-fdny-violations.md`
-- **Archived files:** prefixed with date in `YYYY-MM-DD` format. Example: `2025-11-14-venue-list.pdf`
-- **Answer files:** `YYYY-MM-DD-short-description.md` inside `02-Answers`
+- **Folder names:** lowercase-with-dashes. Example: `karaoke-operations`
+- **Note filenames:** lowercase-with-dashes ending in `.md`. Example: `christmas-opening-checklist.md`
+- **Archived files:** date prefix `YYYY-MM-DD-`. Example: `2026-05-17-allnotes.txt`
+- **Answer files:** `YYYY-MM-DD-short-description.md` in `02-Answers`
+- **Links:** `[[exact-filename|Display Name]]` — the left side must match the filename, not the heading
+- **Source line:** `../../03-Archive/filename` — two levels up from a note
 
 ---
 
 ## Topic Folders in 01-Wiki
 
-| Folder Name | What Goes Here |
-|---|---|
-| `karaoke-operations` | Day-to-day running of Christmas Karaoke and Beats Karaoke: opening, closing, cleaning, sales tracking, staff checklists, customer email templates, inspection prep |
-| `karaoke-business` | Legal, financial, and business-level matters for the karaoke venues: chargebacks, disputes, formal correspondence |
-| `app-ideas` | Technology and app concepts at any stage: from one-sentence seeds to detailed feature lists |
-| `business-ideas` | New company and service concepts that aren't specifically tech/app ideas |
-| `web-dev-business` | Website development and consulting work: pitches, proposals, and client materials |
-| `personal-finance` | Personal budgets, expenses, and financial notes |
-| `comedy` | Stand-up material, joke drafts, Kill Tony prep, and performance notes |
-| `personal` | Personal notes, miscellaneous items, and ideas that don't fit a specific business or project |
+| Folder | Notes | What goes here |
+|---|---|---|
+| `karaoke-operations` | 25 | Running the venues day to day — opening, closing, cleaning, menus, prices, staff rules, inspections |
+| `karaoke-business` | 29 | The business side — pricing, marketing, partnerships, chargebacks, management dispute |
+| `app-ideas` | 11 | Software concepts, from one-line seeds to full build specs |
+| `content-creation` | 8 | Video concepts, AI prompt packs, social media strategy |
+| `sports-betting` | 5 | NBA edge model, betting apps, bankroll discipline |
+| `personal` | 14 | Routines, journals, AI reference, anything not business |
+| `comedy` | 4 | Stand-up premises and performance prep |
+| `web-dev-business` | 3 | Freelance website work — pitches and scripts |
+| `business-ideas` | 3 | Company and product concepts that aren't apps |
+| `legal` | 3 | Contracts and agreements |
+| `writing-projects` | 2 | The "One" manga — canon and scripts |
+| `personal-finance` | 1 | Budgets and money owed |
+
+**Total: 108 notes plus 12 folder indexes and `home.md`.**
 
 ---
 
-## How to Add a New Topic Folder
+## Index Files
 
-Claude does this automatically during "process inbox." If you ever want to manually add a topic:
+Every topic folder has `index.md`. `01-Wiki/home.md` is the vault entry point and links to all twelve.
 
-1. Create the folder inside `01-Wiki` using lowercase-with-dashes naming.
-2. Create an `index.md` inside it listing the notes it will contain.
-3. Add a row to the table above with the folder name and a short description.
-
----
-
-## Index File Format
-
-Every topic folder in `01-Wiki` must have an `index.md` file. Format:
-
+Format:
 ```markdown
-# [Topic Name] — Index
+# Topic Name — Index
 
-Short description of what this topic covers.
+One line on what this topic covers.
 
 ## Notes
-- [[note-filename-without-extension]]
-- [[another-note]]
+- [[note-filename|Display Name]] — one-line description
 ```
 
 ---
 
-## Last Updated
+## How to Add a Topic Folder
 
-*(Claude updates this line after each processing session.)*
+Claude does this automatically during "process inbox." Manually:
+1. Create the folder in `01-Wiki`, lowercase-with-dashes.
+2. Create `index.md` inside it.
+3. Add a row to the table above.
+4. Add it to `01-Wiki/home.md`.
 
-Last updated: 2026-05-17 — First inbox batch processed. 20 files → 8 topic folders → 18 notes created.
+---
+
+## Processing History
+
+| Date | What was processed | Result |
+|---|---|---|
+| 2026-05-17 | 20 PDFs | 20 notes |
+| 2026-05-17 | `allnotes.txt` (12,423 lines) | 88 notes across 12 folders |
+
+Every source file is preserved in `03-Archive`. Nothing was skipped.
+
+---
+
+Last updated: 2026-05-17 — full rebuild complete. 108 notes, 457 internal links, all verified to resolve.

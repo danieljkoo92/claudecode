@@ -12,6 +12,18 @@
 2. Chicken lowers the temperature of the oil, and fries then take far too long to cook.
 3. Chicken cooks in 3 minutes.
 
+## Mama Lee — Food Items
+A short list of dishes filed under the name **Mama Lee**, most likely a food supplier or the source of prepared items:
+
+- Fish
+- Beef soup
+- String bean minced meat
+- Braised beef
+- Meatball
+
+## Kitchen Shopping List
+Also noted: garlic, 2 boxes of rice, paper towel, water, black pepper. And separately: one bottle of vodka, count cans.
+
 ## Why This Matters Beyond the Kitchen
 The POS wishlist asks for per-item alarms so the kitchen gets a notification if fries take more than 20 minutes — see [[pos-app-feature-list|POS App — Feature List]]. This rule is the reason that timer would ever trip.
 

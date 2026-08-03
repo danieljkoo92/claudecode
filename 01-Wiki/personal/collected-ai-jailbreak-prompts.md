@@ -15,7 +15,7 @@ Three blocks, one after another:
 3. A short **command list** variant (`/classic`, `/jailbroken`, `/stop`) for switching between modes.
 
 ## Worth Knowing
-These prompts are several years old and no longer do much of anything on current models. If the goal was getting more useful output from an AI, the material in [[claude-workflow-notes|Claude Workflow Notes]] is a far better starting point than any of this.
+These prompts are several years old and no longer do much of anything on current models. If the goal was getting more useful output from an AI, [[universal-ai-prompt-templates|Universal AI Prompt Templates]] and [[ai-assistant-preferences|AI Assistant Preferences]] are far better starting points than any of this.
 
 ## Where the Full Text Is
 Preserved verbatim in the archive at `2026-05-17-allnotes.txt`, immediately after the Christmas Karaoke chargeback letters.

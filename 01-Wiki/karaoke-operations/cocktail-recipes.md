@@ -128,6 +128,24 @@
 
 **Dirty Shirley Temple** — recipe was not legible on the sheet
 
+## New Mocktails to Add
+Two more non-alcoholic drinks drafted later in the notes:
+
+**Cranberry Lime Sparkler**
+- 1.5 oz Cranberry juice
+- ½ oz Lime juice
+- 1 oz Simple syrup
+- Top with Sprite
+- Cocktail glass with ice, lime/lemon garnish
+
+**Pineapple Cherry Pop**
+- 3 oz Pineapple juice
+- ½ oz Grenadine
+- Top with Sprite
+- Cocktail glass with ice, cherry or lime garnish
+
+Both are worth adding — mocktails sell at $6 with almost no cost, and every group has at least one person not drinking.
+
 ## Ideas Not Yet on the Menu
 - **Spiked Popsicles** — noted separately in the source, no recipe attached.
 

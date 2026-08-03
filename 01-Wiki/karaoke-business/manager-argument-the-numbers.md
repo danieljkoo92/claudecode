@@ -25,6 +25,21 @@ The scaled version:
 
 He also notes the personal cost runs the other way: giving free drinks means more dishes, more drinks to make, more cleaning, and no tip benefit since gratuity is already charged. *"I don't benefit from giving people a free shot. If anything, I lose."*
 
+## The Service Qualification Rule
+Comps are not given out freely — there is a filter, applied in conversation before anyone gets anything:
+
+1. Find out **where they live**
+2. Find out **what they do for a living**
+3. Find out **where they work**
+4. See **how frequently they go out** — to judge the chance of them coming back
+
+> If they don't meet at least **three out of those four**, I'll give them nothing.
+
+## The $50 a Week Claim
+> If you let me give out $50 of alcohol at cost per week in service, I could get $500 a week in sales, easy.
+
+And the extreme illustration: four friends in a room getting a bottle of soju every hour still returns about $37 plus tax per hour to the store after cost — and that is far more generous than what would actually be given.
+
 ## What Doesn't Get Calculated
 A direct list from the letter — things the manager does not track:
 

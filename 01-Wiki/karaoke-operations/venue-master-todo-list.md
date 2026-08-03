@@ -34,6 +34,17 @@
 - [ ] Find new drinks and alcohol
 - [ ] Ask for another fridge for the bar
 
+## Later Additions
+Further items found elsewhere in the notes:
+- [ ] Make the little flyer for reviews on the menus
+- [ ] Two more mics
+- [ ] Organize the liquor room
+- [ ] Need more 8 oz cups for specials — but they have to look better
+- [ ] Ask if we can sell bottles
+- [x] Checked juice sales — we don't sell enough to get smaller bottles, less than 10 a week
+
+The review flyer connects to the review-asking SOP in [[complete-sop-system|Complete SOP System]], and the venue's own rule that leaving a review earns a free shot.
+
 ## Korean Packages
 To be written entirely in Korean:
 1. **치맥 패키지** — chicken and beer

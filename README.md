@@ -91,9 +91,11 @@ Obsidian is a free app that lets you browse, search, and navigate your notes bea
 
 - Creates topic folders in 01-Wiki based on what your files are actually about (you don't pre-define topics)
 - Keeps an `index.md` in each topic folder linking all notes inside it
-- Writes notes that link to each other using `[[Note Name]]` format
+- Keeps `home.md` updated as the front page of the whole vault
+- Writes notes that link to each other, so clicking through works and the graph view connects
 - Moves raw files to 03-Archive after processing (originals are safe)
 - Updates the `04-Config/schema.md` rulebook whenever a new topic is added
+- Flags anything contradictory it finds rather than guessing — wrong prices, dead email addresses, conflicting hours
 
 ---
 
@@ -105,16 +107,34 @@ Obsidian is a free app that lets you browse, search, and navigate your notes bea
 
 ---
 
-## Setting Up (One-Time Steps for a New PC)
+## Getting It Onto Your Phone or PC
 
-If you're setting this up on a new machine or sharing this with someone:
+Everything lives on GitHub. To get a copy:
 
-1. Make sure **Claude Code** is installed (claude.ai/code)
-2. Clone this repository or copy the folder to `C:\SecondBrain` on your PC
-3. Open Claude Code and point it at the folder
-4. Install Obsidian and point it at the `01-Wiki` subfolder as a vault
-5. Drop files in `00-Inbox` and type `process inbox`
+**Download this link:**
+`https://github.com/danieljkoo92/claudecode/archive/refs/heads/main.zip`
+
+**Then:**
+1. Open your **Files** app → **Downloads**
+2. Tap the ZIP → **Extract**
+3. You get a folder called `claudecode-main`
+4. Inside it, find **`01-Wiki`** — that folder *is* the vault
+5. Obsidian → **Open folder as vault** → select `01-Wiki`
+
+**Important:** point Obsidian at `01-Wiki`, not the top folder. If you open the top folder you'll see the archive PDFs and config files mixed in with your notes.
+
+To sync between phone and PC, put the folder inside Google Drive or Dropbox and open it from there on both devices.
 
 ---
 
-*This system was set up automatically by Claude Code. The rules that govern how Claude processes your files live in `CLAUDE.md` at the top of this folder.*
+## What's In It Right Now
+
+**108 notes across 12 topics**, built from 20 PDFs and a 12,423-line notes file.
+
+The busiest sections are **karaoke-operations** (25 notes — every checklist, menu and price list) and **karaoke-business** (29 notes — pricing, marketing, four chargeback cases, the management dispute).
+
+Open **`home.md`** first. It links to everything and lists seven things I found that need a decision from you — a broken email address, wrong hours on the website, and some prices that disagree between menu versions.
+
+---
+
+*This system was set up by Claude Code. The rules that govern how Claude processes your files live in `CLAUDE.md` at the top of this folder.*

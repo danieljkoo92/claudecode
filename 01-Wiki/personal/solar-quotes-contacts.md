@@ -30,6 +30,35 @@ Solar Pro Inc
 718-962-7699. 월요일 2시에 사람이 와서 보고 설명하러 온데요
 ```
 
+## Solar Mentor — The Actual Quote
+The only detailed numbers recorded:
+
+| Item | Figure |
+|---|---|
+| Annual usage needed | **40,000 kW a year** |
+| System sizing | 120% |
+| Panels | **69** |
+| Cost before incentive | **$119,000** |
+| State incentive | **−$17,000** — *can disappear at any time* |
+
+Two caveats written down alongside it:
+- **The property tax abatement does not discount us.**
+- **Modified accelerated depreciation has to be done by the accountant** — it is a tax treatment, not a discount off the price.
+
+So the realistic net is $102,000 if the state incentive is still available when the contract is signed — and the note explicitly warns that it can vanish, which is an argument for moving quickly rather than shopping indefinitely.
+
+## Timeline Given
+| Stage | Timing |
+|---|---|
+| Site visit | Day after signup |
+| — | After a week |
+| Approval | 2–3 months |
+| Construction starts | Up to two weeks after approval |
+
+Target noted: **before July 4th on the contract.**
+
+Worth reading that timeline carefully — approval alone takes 2–3 months, so a July 4th contract date means construction starting around October.
+
 ## Worth Doing
 Get all three estimates in writing before deciding, and make sure each one is quoting against the **same Con Ed usage figures** — otherwise the numbers are not comparable. The in-person visit from Solar Pro will produce the most accurate quote, so it is worth using their findings to sanity-check the two email estimates.
 

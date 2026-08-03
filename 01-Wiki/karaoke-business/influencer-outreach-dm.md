@@ -47,6 +47,24 @@ Please text first mentioning this message. Thank you.
 
 Note that it asks them to mention the Instagram offer to get the discounted quote — which, like the [[beats-weekly-specials-email|weekly specials email]], makes the campaign trackable.
 
+## Third Version — Short and Casual
+The shortest of the three, and probably the best opener for cold DMs:
+
+```
+Hey! I'm Daniel, the manager at Christmas Karaoke.
+
+I'm promoting locally right now and we're offering people with an active
+following 50% off a private room if they share a short Reel and story from
+their visit.
+
+It doesn't need to be anything professional — just your group having fun and
+tagging us.
+
+Lmk if you're interested!
+```
+
+The line that does the work is **"it doesn't need to be anything professional."** The main reason people ignore these offers is thinking they owe you a polished production. This removes that objection in one sentence.
+
 ## Using It Well
 - **Always fill in the blank.** A generic "love your content" reads as a mass DM; naming an actual video is the difference between a reply and a scroll past.
 - Bringing friends is the point — it fills a room, which produces better footage than one person alone.

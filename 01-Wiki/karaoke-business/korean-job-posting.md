@@ -76,6 +76,28 @@ A longer, more formal version also exists, written for a job board rather than a
 
 **In English:** A lively karaoke bar in Queens hiring a manager, servers and bartenders. Duties: customer service, taking food and drink orders, preparing and serving drinks, handling payments, keeping the store clean, and working with the team during busy hours. Wants evening and weekend availability, experience preferred, friendly and responsible people who want to stay long term. **Pay: hourly + tips.** Text 917-245-8685.
 
+## English Version — Bilingual Requirement
+A separate English ad, notable for making bilingualism a stated requirement and for refusing phone calls:
+
+```
+Now Hiring: Server / Bartender
+📍 Christmas Karaoke – Bayside
+
+We are currently seeking individuals who:
+• Speak both Korean and English
+• Are professional, reliable, and comfortable in a fast-paced nightlife
+  environment
+
+Compensation includes hourly and tips, but will be discussed during the
+interview.
+
+Inquiries by text only: 917-245-8685
+Phone calls may not receive a response.
+We will contact qualified applicants as soon as possible.
+```
+
+Two deliberate choices here: pay is **discussed at interview** rather than posted, and **text only** — which filters for people who follow instructions and keeps the phone free during service.
+
 ## Interview Question Noted Separately
 One question written down beside this material: **"Are your parents OK with you working at karaoke at night?"**
 

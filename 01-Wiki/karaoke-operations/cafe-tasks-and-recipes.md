@@ -23,6 +23,30 @@
 ```
 That is one part concentrate to two parts water.
 
+## Full Café Closing Routine
+A longer version of the close appears elsewhere in the notes:
+
+- TV off
+- Fill powder and fruit
+- **Drip coffee:** Cafiza, then drain — then one more time
+- Turn off the blender, remove the top cover and lower splash cover, bring to dishes
+- Wash the matcha maker
+- Clean the espresso grinder and take the mats
+- Clean the espresso machine
+- Bring back the blender tops and dishes
+- Remove ice from the ice bucket
+- **Pastries** go in a pizza box for the One Love donation — kept in the back of the walk-in, on the left of the stairs coming down
+- Throw out trash and replace the bags
+- Rinse the broth kettle
+
+## Equipment Wanted
+A short wishlist written alongside the routine:
+- TV screen ordering instructions
+- Cup rack on the espresso machine to dry scoops
+- Adjustable measuring scoops
+- Blender automatic rinser
+- Mesh net strainer
+
 ## Also Noted
 - Amaranth rice crispy.
 

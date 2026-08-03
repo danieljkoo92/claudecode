@@ -10,6 +10,15 @@
 ## The Links
 - https://www.instagram.com/reel/DXKPTUgEl9z/?igsh=MTF4c2xueXgzMjllcw==
 - https://www.instagram.com/reel/DW6n_PpmohR/?igsh=MWZ5dzh4Y3c3Z29wMw==
+- https://www.instagram.com/reel/DVbflCpjr_6/?igsh=MXR1azc1NHBqenFoOQ==
+
+## Accounts Saved
+- https://www.instagram.com/little.row_boat
+- https://www.instagram.com/consciousalchemies
+- https://www.instagram.com/manifestation_dreams__
+
+## Reference Doc
+- Facebook Business help page on ad settings: https://www.facebook.com/business/help/1575107409431290?id=352109282177656
 
 ## Suggested Next Step
 Watch both and add one line each on what specifically is worth stealing — the hook, the edit pace, the caption style, or the shot list. Then feed those observations into the [[instagram-faceless-content-prompt|faceless content prompt]].

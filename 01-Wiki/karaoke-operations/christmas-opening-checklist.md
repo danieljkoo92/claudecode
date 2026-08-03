@@ -53,10 +53,23 @@
 - **7pm:** call the fire alarm company and disable for 8 hours.
 - Trash nights are Sunday, Tuesday and Thursday — out at 11pm.
 
+## Steps From Other Versions
+Two more versions of this checklist exist in the big notes file. They mostly match, but carry a few steps the printed one does not:
+
+- **Bar TV audio:** press **output 1 on the amp** and switch the laptop output to **headphones**.
+- **5pm:** turn on the outside 간판 (rather than just "when dark").
+- **Trash:** gather all the store's trash into **one bag** and put it under the stairs.
+- **Beer fridge:** write the **full** inventory — count the beer and drinks and write it down, rather than only topping up when 10+ are missing.
+- **Rags:** one version says rinse **2** rags on weekdays instead of 1.
+- **Room list variant:** weekdays Korean 13, 12, 11, 15 and English 3, 4, 5, 7, 8, with **all** rooms on weekends.
+
+Where they disagree, the printed checklist above is the one that was filed on its own, so treat it as current and these as history.
+
 ## Related Notes
 - [[closing-checklist-master|Closing Checklist — Master]]
 - [[downtime-checklist|Downtime Checklist]]
 - [[health-inspection-checklist|Health Inspection Checklist]]
+- [[front-desk-shift-notes|Front Desk Shift Notes]]
 
 ---
 **Source:** `../../03-Archive/2026-05-17-Christmas_open_to_do_list__260424_212250.pdf`

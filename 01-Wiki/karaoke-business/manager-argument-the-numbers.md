@@ -54,6 +54,44 @@ Not only to look good for customers. The bigger reason:
 ## On BYOB vs Packages Again
 The manager's argument was that BYOB customers stay in the room longer. The counter: **nobody stays five hours**, and no small group stays four. Meanwhile drink sales run close to **100% profit**. Package 2 is $25 with about $5 of drinks in it.
 
+## Package Unit Economics — The Actual Numbers
+The clearest financial argument in the whole set, worked out properly:
+
+**Silver package:** three drinks and one shot. Cost of goods: about **$2.50**, generously rounded to $4. Sold as part of a package that nets roughly **$22 per person** — and these are people who came in and would otherwise have bought nothing.
+
+**Package 3:** three cocktails at roughly 80¢ each plus 20¢ for the most expensive pasta. Comes to about **$3**, counted as **$5** to absorb any ingredient inflation.
+
+**Labour does not count** unless the drinks force you to hire an extra person. A minimum of two people have to be there anyway, slow or busy.
+
+**What BYOB would have to do to compete:** every BYOB room would have to stay **2.5 to 3.5 hours longer** than the 2–3 hours they currently stay. For the silver package, a BYOB group would need a total of **4.5 hours** just to match it. And the question underneath it: do drunk people or sober people stay in the room longer?
+
+## Why Ads Matter Here and Not at the Other Stores
+> Google ads and Instagram ads don't matter at the other stores because that's not where their customers come from. All their customers come from word of mouth, foot traffic and walk-ins. Over here we don't have anything besides Google Ads and Instagram Ads — and you're running them very badly.
+
+The other locations sit on busy streets and can build a referral base from foot traffic alone with no marketing at all. This one has no such base, so **every new customer has to come from marketing first**, and referrals can only grow after that.
+
+Related: the reason for running Instagram ads at all — *"if one person came from seeing it without ads, five to ten could come from seeing it with ads."*
+
+And on attribution: when the paper shows most customers were returning, saying "what if they saw the Google ad?" misses the point. **We are not using Google to remind old customers we exist. We are using it to find new ones.**
+
+## The Question That Ends the Argument
+> If the boss says sales were $40,000 last month — why is the profit only $600? What would your answer be?
+>
+> Not having an answer means you're not doing your job well. Blaming the year the employees were born means you're not doing your job well.
+
+And the reframe on cost-cutting:
+> Instead of worrying about how we can save $5–10 saving cans, why don't you worry about how we can make $10–20 more from running ads better?
+
+## What Is Actually Good About the Store
+A blunt list of questions with no good answers, used to make the point that nothing except the staff is currently a reason to return:
+- Is it cheap?
+- Is the decor nice?
+- Are the drinks good?
+- Is the equipment good?
+- Is the sound good?
+
+The conclusion drawn: even running three rooms on a minimum drink order would be better than the current position — but only if the website and SEO get fixed first.
+
 ## Two Money Incidents
 Raised directly, including the part that reflects badly on him:
 

@@ -59,6 +59,32 @@ Tequila · Vodka · Whiskey · Rum · Gin
 ## Mocktails — $6
 Lemonade · Shirley Temple · Sunrise
 
+## Additional Items From the Full Menu Version
+A more complete version of the same list appears later in the notes and adds:
+
+| Item | Price |
+|---|---|
+| Bottled water | $2.50 |
+| Club Soda | $3 |
+| Tonic | $3 |
+| Soda pitcher | $12 |
+| Juice pitcher | $15 |
+| Redbull | $6 |
+| Coors Lite (can) | $7 |
+
+It also brands two more cocktails for the holidays: **(Merry) Melon Ball** alongside the Grinch's, Santa's and Frosty's drinks.
+
+## ⚠ Price Conflicts to Settle
+Three different versions of this menu exist in the notes and they do not agree. Before anything gets printed or laminated, pick one:
+
+| Item | Version A | Version B |
+|---|---|---|
+| Shooters | **$10** | **$9** |
+| Long Island / Tokyo Iced Tea | **$16** | **$15** |
+| Cocktails with top shelf | +$3 | +$3 *(consistent)* |
+
+One version also lists top shelf in the reverse order (shot/rock/mix rather than mix/rock/shot) with the same underlying numbers for Casamigos, Tito's, Hennessy and Jack — so that is a formatting difference, not a pricing one.
+
 ## Why the Three-Price Structure Matters
 This is exactly the menu problem described in [[pos-app-feature-list|POS App — Feature List]]: house and top shelf each have three categories at three prices, and listing every combination separately would mean a thousand menu items. The POS needs sub-options per item instead.
 

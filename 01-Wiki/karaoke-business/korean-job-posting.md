@@ -45,6 +45,37 @@ Bayside Christmas Karaoke 직원 구합니다.
 ## In English
 Christmas Karaoke is a private-room karaoke bar with a bright, comfortable atmosphere, currently hiring servers (male/female), bartenders, and an assistant manager. Full and part time both available, with preference for people who can work 3–4 days a week or more. Experience preferred, but people without experience are welcome if they are bright and responsible. Various shifts, averaging 6–8 hours. Looking for people who are reliable and want to work together long term. Apply by text.
 
+## Third Version — Fuller Job Description
+A longer, more formal version also exists, written for a job board rather than a text-in ad. It lists duties and qualifications and states the pay structure:
+
+```
+회사 소개
+저희는 퀸즈에 위치한 활기찬 가라오케 바로, 현재 매니저랑 서버 / 바텐더를
+모집하고 있습니다. 빠르게 돌아가는 나이트라이프 환경을 즐기시는 분들께
+좋은 기회입니다.
+
+업무 내용
+  고객 응대 및 서비스 제공
+  음식 및 음료 주문 받기
+  음료 준비 및 제공
+  결제 처리 및 매장 청결 유지
+  바쁜 시간대에 팀원들과 협업
+
+지원 자격
+  서버 또는 바텐더 경력자 우대
+  저녁 및 주말 근무 가능자
+  친절하고 성실하며 책임감 있는 분
+  성장 의지가 있고 장기적으로 함께할 분
+
+급여
+  시급 + 팁
+
+관심 있으신 분은 9172458685 으로 연락처 정보와 함께 문자 메시지를
+보내주세요. 연락 주시면 감사하겠습니다.
+```
+
+**In English:** A lively karaoke bar in Queens hiring a manager, servers and bartenders. Duties: customer service, taking food and drink orders, preparing and serving drinks, handling payments, keeping the store clean, and working with the team during busy hours. Wants evening and weekend availability, experience preferred, friendly and responsible people who want to stay long term. **Pay: hourly + tips.** Text 917-245-8685.
+
 ## Interview Question Noted Separately
 One question written down beside this material: **"Are your parents OK with you working at karaoke at night?"**
 

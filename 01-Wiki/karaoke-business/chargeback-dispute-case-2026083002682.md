@@ -27,6 +27,11 @@
 ## The Argument Made
 Daniel, the assistant manager, was present on 02/06/2026 and received no complaints about payment that night. The group arrived at 7:50 PM and checked out at 10:01 PM, staying 2 hours and 9 minutes, during which they ordered one house vodka mix and one mango white claw. The itemized receipt was provided before charging. Tax and gratuity were added on top of the room rate. The customer's ID was verified against the credit card, and no concerns were raised at the time. Receipts and supporting documents were attached.
 
+## Filed Three Times Under Two Case Numbers
+The same $301.94 transaction appears in the notes under a **second case number — 2026051024376** — with identical details, the same P05 reason code and the same 03/01/2026 due date.
+
+So this one transaction generated at least three pieces of paperwork: the original P05 dispute, a re-filing under a new case number, and the CB-M38 reversal. Worth knowing that a single disputed charge can come back more than once under a different reference — do not assume a new case number means a new incident.
+
 ## Outcome
 The same letter appears again in the source under code **CB-M38**, which reads: "We recently debited your account for the adjustment amount indicated. We are now reversing the debit and crediting your account." That is the bank reversing the chargeback — the dispute was resolved in the venue's favour.
 

@@ -1,6 +1,6 @@
-# Second Brain — Standing Instructions for Claude Code
+# Second Brain — Standing Instructions
 
-Read this file every time you open Claude Code in this folder. These are your operating rules.
+Read this file every time you open Claude Code in this folder. These are the operating rules.
 
 ---
 
@@ -9,101 +9,108 @@ Read this file every time you open Claude Code in this folder. These are your op
 | Folder | Purpose |
 |---|---|
 | `00-Inbox` | Raw files dropped in by the user. Process from here. |
-| `01-Wiki` | Organized markdown notes. This is the knowledge base. |
-| `02-Answers` | Saved answers to questions, one file per question with date in filename. |
-| `03-Archive` | Original raw files after processing. Read-only. Never edit. |
-| `04-Config` | Rules and schema. Update `schema.md` when you add a new topic folder. |
+| `01-Wiki` | Organized markdown notes. This is the Obsidian vault. |
+| `02-Answers` | Saved answers to questions, one file per question, dated. |
+| `03-Archive` | Original raw files after processing. **Read-only. Never edit.** |
+| `04-Config` | Schema, topic registry, and handoff notes. |
+
+Top level holds exactly these five folders plus `CLAUDE.md` and `README.md` — seven items. Do not add files at the top level.
 
 ---
 
 ## COMMAND: "process inbox"
 
-When the user says **"process inbox"**, do the following for every file inside `00-Inbox`:
+For every file in `00-Inbox`:
 
-1. **Read the file** completely.
-2. **Decide the topic.** Check `04-Config/schema.md` for existing topic folders. If the file fits one, use it. If it doesn't fit any existing folder, create a new topic folder in `01-Wiki` with a clear, descriptive name (lowercase-with-dashes, e.g. `karaoke-venues`, `sports-betting`, `web-dev-business`).
-3. **Write a markdown summary note** inside the correct topic folder in `01-Wiki`. See note format rules below.
-4. **Update the topic's `index.md`** — every topic folder has an `index.md` that lists all notes inside it with `[[Note Name]]` links. Create `index.md` if it doesn't exist yet.
-5. **Move the original raw file** from `00-Inbox` to `03-Archive`. Prefix the filename with today's date: `YYYY-MM-DD-original-filename.ext`.
-6. **Update `04-Config/schema.md`** if you created a new topic folder — add it to the list with a short description.
-7. After processing all files, give the user a brief summary: how many files were processed, what topics they went into, any issues.
+1. **Read it completely.** Never guess a file's subject from its filename — open it.
+2. **Decide the topic.** Check `04-Config/schema.md` for existing folders. Use one if it fits; create a new folder in `01-Wiki` if nothing fits.
+3. **Write one note per distinct subject.** A file containing ten unrelated things becomes ten notes, not one.
+4. **Update the topic's `index.md`** and `01-Wiki/home.md`.
+5. **Move the original** to `03-Archive`, prefixed `YYYY-MM-DD-`.
+6. **Update `04-Config/schema.md`** if a folder was added.
+7. **Report** in plain English: how many files, which topics, anything skipped.
+
+Tell the user what you are doing as you go. Do not run long silent stretches.
 
 ---
 
-## MARKDOWN NOTE FORMAT
+## NOTE FORMAT — MANDATORY
 
-Every note you write in `01-Wiki` must follow this structure:
-
-```
+````
 # Note Title
 
-**Summary:** 3–5 sentences describing what this file is about.
+**Summary:** 3–5 sentences describing what this note covers.
 
 ## Key Points
-- Bullet point 1
-- Bullet point 2
-- Bullet point 3
+- Point one
+- Point two
+- Point three
 
-## [Section heading for important details]
-Write important details here. Use as many ## sections as needed.
+## [Section Heading]
+Details. Use as many `##` sections as the material needs.
 
 ## Related Notes
-- [[Other Note Name]]
-- [[Another Note Name]]
+- [[note-filename|Display Name]]
 
 ---
-**Source:** `../../../03-Archive/YYYY-MM-DD-original-filename.ext`
-```
+**Source:** `../../03-Archive/YYYY-MM-DD-original.ext`
+````
 
-**Rules for notes:**
-- Title as `#` heading, plain English, title case.
-- Filename: lowercase-with-dashes, no spaces, no special characters. Example: `christmas-karaoke-fdny-violations.md`
-- Use Obsidian-style double-bracket links `[[Note Name]]` when referencing other notes. This connects the wiki.
-- If a note references another topic's notes, add the link in the Related Notes section.
-- Keep the language clear and plain. No jargon unless it's in the source material.
+### Hard rules
+
+- **Filename:** lowercase-with-dashes, `.md`. Example: `christmas-opening-checklist.md`
+- **Title:** plain English, Title Case, as the `#` heading.
+- **Links:** always `[[exact-filename-without-extension|Display Name]]`.
+  Obsidian resolves the left side against the **filename**, not the heading.
+  `[[beer-inventory|Beer Inventory]]` ✅ — `[[Beer Inventory]]` ✗ (dead link).
+- **Source path:** `../../03-Archive/…` — two levels up from `01-Wiki/topic/note.md`. Three levels is wrong.
+- Every note gets a real summary. Never write a placeholder like "extracted from file."
+- Title must match content. If you cannot describe the content, read it again.
+- Plain language. No jargon unless it is in the source.
+
+---
+
+## INDEX FILES
+
+Every topic folder has `index.md`:
+
+````
+# Topic Name — Index
+
+One line on what this topic covers.
+
+## Notes
+- [[note-filename|Display Name]] — one-line description
+````
+
+`01-Wiki/home.md` is the vault entry point and links to every topic index.
 
 ---
 
 ## COMMAND: "answer this from my brain: [question]"
 
-When the user asks a question this way:
-
-1. Search all files inside `01-Wiki` for relevant notes.
-2. Compose a clear answer based only on what's in those notes. If you don't have enough information, say so honestly.
-3. Save the answer as a new file in `02-Answers` with this filename format: `YYYY-MM-DD-short-description-of-question.md`
-4. The answer file should include the original question at the top, then the answer, then a list of which notes you pulled from.
+1. Search all of `01-Wiki`.
+2. Answer only from what is there. If the notes do not cover it, say so plainly.
+3. Save to `02-Answers/YYYY-MM-DD-short-description.md` — question at top, then the answer, then which notes it came from as links.
 
 ---
 
-## AUDIO AND VIDEO FILES
+## AUDIO AND VIDEO
 
-If a file in `00-Inbox` is a video (`.mp4`, `.mov`, `.avi`, `.mkv`) or audio file (`.mp3`, `.m4a`, `.wav`, `.aac`):
-
-- Do **not** attempt to process it directly.
-- Tell the user: *"[filename] is a video/audio file. Please transcribe it first. You can use a free tool like [otter.ai](https://otter.ai) or the built-in Windows 11 transcription, then drop the transcript text file into 00-Inbox and I'll process that."*
-- Move the original file to `03-Archive` with a date prefix and note in your summary that it needs a transcript.
+For `.mp4 .mov .avi .mkv .mp3 .m4a .wav .aac`: do not attempt to process. Tell the user it needs transcribing first (Otter.ai or Windows 11 built-in transcription), move it to `03-Archive` with a date prefix, and flag it in the summary.
 
 ---
 
 ## ARCHIVE RULES
 
-- Never edit, modify, or delete any file inside `03-Archive`.
-- Treat everything in `03-Archive` as read-only history.
-- If the user asks about an archived file, read it and summarize — do not move or change it.
-
----
-
-## SCHEMA MAINTENANCE
-
-- `04-Config/schema.md` is the master list of topic folders.
-- Every time you create a new topic folder in `01-Wiki`, immediately update `schema.md` to add it.
-- Every time you process a batch, glance at `schema.md` to make sure it's accurate.
+Never edit, move, or delete anything in `03-Archive`. To answer a question about an archived file, read it and summarize — do not change it.
 
 ---
 
 ## GENERAL RULES
 
-- Always tell the user what you did in plain English after any operation.
-- If a file is corrupted, unreadable, or in a format you can't parse, tell the user and skip it.
-- If you're unsure which topic folder a file belongs to, pick the closest one and tell the user your reasoning. Don't ask before acting — act, then explain.
-- Keep everything consistent with the naming conventions in `04-Config/schema.md`.
+- Explain everything in plain English. The user is not technical.
+- Never bulk-generate notes with a script that assigns titles without reading content. This produced 25 mislabeled notes once already.
+- If a file is unreadable, say so and skip it — leave it in `00-Inbox`.
+- If unsure which folder fits, pick the closest, act, then explain the reasoning.
+- Keep `04-Config/schema.md` accurate after every batch.

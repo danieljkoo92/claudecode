@@ -19,10 +19,9 @@ Claude maintains this file. It is the master list of topic folders and the namin
 
 | Folder | Notes | What goes here |
 |---|---|---|
-| `karaoke-operations` | 25 | Running the venues day to day — opening, closing, cleaning, menus, prices, staff rules, inspections |
-| `karaoke-business` | 29 | The business side — pricing, marketing, partnerships, chargebacks, management dispute |
+| `karaoke` | 41 | Running the venues day to day — opening, closing, cleaning, menus, prices, staff rules, inspections, pricing, partnerships, chargebacks, management dispute |
+| `marketing` | 21 | Strategy, outreach/sales scripts, ads, and content/video production — anything marketing-related, pulled out of karaoke and content-creation |
 | `app-ideas` | 11 | Software concepts, from one-line seeds to full build specs |
-| `content-creation` | 8 | Video concepts, AI prompt packs, social media strategy |
 | `sports-betting` | 5 | NBA edge model, betting apps, bankroll discipline |
 | `personal` | 14 | Routines, journals, AI reference, anything not business |
 | `comedy` | 4 | Stand-up premises and performance prep |
@@ -38,7 +37,7 @@ Claude maintains this file. It is the master list of topic folders and the namin
 
 ## Index Files
 
-Every topic folder has `index.md`. `01-Wiki/home.md` is the vault entry point and links to all twelve.
+Every topic folder has `index.md`. `01-Wiki/home.md` is the vault entry point and links to all eleven.
 
 Format:
 ```markdown
@@ -73,4 +72,8 @@ Every source file is preserved in `03-Archive`. Nothing was skipped.
 
 ---
 
-Last updated: 2026-05-17 — full rebuild complete. 108 notes, 457 internal links, all verified to resolve.
+| 2026-08-04 | Reorganized `karaoke-operations` + `karaoke-business` + `content-creation` into `karaoke` (41 notes) and `marketing` (21 notes) | No notes added or removed — same 108 total |
+
+---
+
+Last updated: 2026-08-04 — folder reorg complete (Priority 1 from the 2026-08-04 handoff). 108 notes, 11 topic folders, links re-verified.

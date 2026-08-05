@@ -6,13 +6,13 @@ Everything organized from your files, sorted by subject. Start anywhere.
 
 ## The Businesses
 
-**[[karaoke-operations/index|Karaoke Operations]]** — 25 notes
-Running the venues: opening and closing, menus and prices, staff rules, health inspections.
+**[[karaoke/index|Karaoke]]** — 41 notes
+Running the venues: opening and closing, menus and prices, staff rules, health inspections, pricing, partnerships, four chargeback cases, and the management dispute.
 → Best starting point: [[complete-sop-system|Complete SOP System]]
 
-**[[karaoke-business/index|Karaoke Business]]** — 29 notes
-Pricing, marketing, partnerships, four chargeback cases, and the management dispute.
-→ Best starting point: [[venue-pricing-and-targets|Venue Pricing and Revenue Targets]]
+**[[marketing/index|Marketing]]** — 21 notes
+Strategy, outreach and sales scripts, ads, and content/video production for both venues.
+→ Best starting point: [[marketing-and-byob-strategy|Marketing and BYOB Strategy]]
 
 **[[web-dev-business/index|Web Dev Business]]** — 3 notes
 Freelance website work — pitches and cold call scripts that lead with the customer's lost money.
@@ -26,9 +26,6 @@ Two products worked out far enough to build, plus the POS spec and a working vid
 
 **[[sports-betting/index|Sports Betting]]** — 5 notes
 A 95-variable NBA edge model with a hard rule about when not to bet.
-
-**[[content-creation/index|Content Creation]]** — 8 notes
-Video concepts and prompt packs, including one reel that's ready to film.
 
 **[[writing-projects/index|Writing Projects]]** — 2 notes
 The "One" manga — character canon and the chapter 1 script.
